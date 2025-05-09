@@ -13,7 +13,7 @@ From a Powershell prompt:
 `Run .\outlookCalGen.ps1 <no arguments needed>`
   Or create shortcut to:
   `"powershell.exe -WindowStyle Hidden -ExecutionPolicy Bypass -File "C:\<PathToYourScripts>\outlookCalGen.ps1"`
-  Then just double click the shortcut like you are starting an application.8316b)
+  Then just double click the shortcut like you are starting an application.
 
 ## Caveats
 This script has only been tested on Microsoft Windows 11 Pro 10.0.26100 N/A Build 26100. The powershell version tested was 5.1.26100.3912.
